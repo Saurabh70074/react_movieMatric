@@ -105,7 +105,7 @@ const Sidebar = () => {
             </div>
 
             <span
-              style={{ fontWeight: "600", fontSize: "30px", color: "#fff" }}
+              style={{ fontWeight: "600", fontSize: "20px", color: "#fff" }}
             >
               {ProjectName}
             </span>
