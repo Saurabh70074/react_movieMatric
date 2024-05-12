@@ -1,4 +1,4 @@
-export const baseURL = "http://localhost:5000/";
+export const baseURL = "http://localhost:3300/";
 export const devKey = "jaZfYL80ZkXc2mmUfVv6BzcuZsNXK5dm";
 
 //aws credentials
