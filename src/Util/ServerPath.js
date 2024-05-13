@@ -1,4 +1,4 @@
-export const baseURL = "https://api.moviematric.com";
+export const baseURL = "https://api.moviematric.com/";
 export const devKey = "jaZfYL80ZkXc2mmUfVv6BzcuZsNXK5dm";
 
 //aws credentials
